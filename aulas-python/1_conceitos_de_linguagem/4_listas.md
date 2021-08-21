@@ -10,7 +10,7 @@
 * Pode conter mais de um tipo de dados;
 * Pode ser inicializar com seus valores;
 * Pode ser vazia e ter valores adicionados posteriormente;
-* Trabalhar com índices nos elementos com valores inteiros baseados em 0;
+* Trabalha com índices nos elementos com valores inteiros baseados em 0;
 * Mantem a ordem que os elementos foram adicionados;
 * Pode se acessada com índices negativos desde que dentro da faixa de elementos existentes
 
